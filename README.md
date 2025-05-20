@@ -132,11 +132,11 @@ output
 ### — Sudeshna Dey
 ###  — Contact & Contributions
 
-#### 📧 Email: sudeshnadey1000@gmail.com
-#### 🔗 LinkedIn: https://www.linkedin.com/in/sudeshna-dey-724a811a0/
+####  Email: sudeshnadey1000@gmail.com
+####  LinkedIn: https://www.linkedin.com/in/sudeshna-dey-724a811a0/
  Have feedback or suggestions? I'm always open to improving and collaborating!
  
 If you find this project helpful:
-⭐ Give it a star
+ Give it a star
 Thanks for visiting — and happy data analyzing!
 
